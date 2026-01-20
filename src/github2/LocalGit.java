@@ -10,5 +10,5 @@ package github2;
  */
 public class LocalGit {
     private int age;
-    
+    private String name;
 }
