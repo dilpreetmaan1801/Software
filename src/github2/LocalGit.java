@@ -17,7 +17,7 @@ public class LocalGit {
         System.out.println("Hello");
   }
     public void DisplayData(){
-        
+        System.out.println("Hello World");
     }
 }
 
