@@ -12,5 +12,11 @@ public class LocalGit {
     private int age;
     private String name;
     private String lastname;
+    public void getData()
+    {
+  }
+    public void DisplayData(){
+        
+    }
 }
 
