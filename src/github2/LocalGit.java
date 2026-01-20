@@ -14,6 +14,7 @@ public class LocalGit {
     private String lastname;
     public void getData()
     {
+        System.out.println("Hello");
   }
     public void DisplayData(){
         
